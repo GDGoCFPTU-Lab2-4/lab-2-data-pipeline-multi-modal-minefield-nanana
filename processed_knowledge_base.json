@@ -1,7 +1,7 @@
 [
     {
         "document_id": "pdf-doc-001",
-        "content": "Summary: This purchase order issued by SNC Lavalin O&M Inc. authorizes Advanced Property Systems Ltd. to perform maintenance on a malfunctioning door latch at 10370 Teresa Road. The contractor is instructed to repair the latch, take before and after photos, and follow specific protocols regarding mail and lock security. The total authorized cost for these services, including the general maintenance call and mileage, is $51.85.",
+        "content": "Summary: This purchase order authorizes ADVANCED PROPERTY SYSTEMS LTD. to perform general maintenance on a door latch at 10370 Teresa Road. The contractor is tasked with repairing the latch to secure working order and must document the work with before-and-after photographs. The total cost for the maintenance call and associated mileage is documented as $51.85.",
         "source_type": "PDF",
         "author": "SNC Lavalin O&M Inc.",
         "timestamp": null,
@@ -16,7 +16,7 @@
         "author": "Speaker 1",
         "timestamp": null,
         "source_metadata": {
-            "extracted_price_vnd": 500000.0,
+            "detected_price_vnd": 500000.0,
             "original_file": "/home/serein/SourceCodes/vinuni_day14-multi-modal-minefield-data-pipeline-lab-VinUni_Codelab3_Advanced/raw_data/demo_transcript.txt"
         }
     },

@@ -30,7 +30,7 @@ def clean_transcript(file_path):
         "author": "Speaker 1",
         "timestamp": None,
         "source_metadata": {
-            "extracted_price_vnd": v_price,
+            "detected_price_vnd": v_price,
             "original_file": file_path
         }
     }
